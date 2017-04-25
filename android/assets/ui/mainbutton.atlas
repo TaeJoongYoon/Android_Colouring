@@ -1,0 +1,47 @@
+
+mainbutton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+back
+  rotate: false
+  xy: 1, 1
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+ach
+  rotate: false
+  xy: 73, 19
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+close
+  rotate: false
+  xy: 145, 19
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+option
+  rotate: false
+  xy: 217, 19
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 289, 19
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+rank
+  rotate: false
+  xy: 361, 19
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1

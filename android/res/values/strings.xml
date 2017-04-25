@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_id">50603558164</string>
+    <string name="package_name">com.mygdx.coloring</string>
+    <string name="achievement_zeroclub">CgkIlIrUwbwBEAIQAQ</string>
+    <string name="achievement_tenthousand">CgkIlIrUwbwBEAIQAg</string>
+    <string name="achievement_11111">CgkIlIrUwbwBEAIQCw</string>
+    <string name="achievement_yellow">CgkIlIrUwbwBEAIQAw</string>
+    <string name="achievement_50000">CgkIlIrUwbwBEAIQCA</string>
+    <string name="achievement_hunnit">CgkIlIrUwbwBEAIQBA</string>
+    <string name="achievement_150000">CgkIlIrUwbwBEAIQCQ</string>
+    <string name="achievement_sparta">CgkIlIrUwbwBEAIQCg</string>
+    <string name="achievement_millionclub">CgkIlIrUwbwBEAIQBQ</string>
+    <string name="leaderboard_easy_score">CgkIlIrUwbwBEAIQEw</string>
+    <string name="leaderboard_easy_combo">CgkIlIrUwbwBEAIQGA</string>
+    <string name="leaderboard_normal_score">CgkIlIrUwbwBEAIQFA</string>
+    <string name="leaderboard_normal_combo">CgkIlIrUwbwBEAIQGQ</string>
+    <string name="leaderboard_hard_score">CgkIlIrUwbwBEAIQFQ</string>
+    <string name="leaderboard_hard_combo">CgkIlIrUwbwBEAIQGg</string>
+    <string name="leaderboard_very_hard_score">CgkIlIrUwbwBEAIQFg</string>
+    <string name="leaderboard_very_hard_combo">CgkIlIrUwbwBEAIQGw</string>
+    <string name="leaderboard_hell_score">CgkIlIrUwbwBEAIQFw</string>
+    <string name="leaderboard_hell_combo">CgkIlIrUwbwBEAIQHA</string>
+    <string name="leaderboard_legend_score">CgkIlIrUwbwBEAIQEg</string>
+    <string name="leaderboard_legend_combo">CgkIlIrUwbwBEAIQHQ</string>
+
+</resources>

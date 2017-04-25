@@ -1,0 +1,89 @@
+
+button.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blackbutton1
+  rotate: false
+  xy: 1, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+blackbutton2
+  rotate: false
+  xy: 1, 259
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+bluebutton1
+  rotate: false
+  xy: 259, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+bluebutton2
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+greenbutton1
+  rotate: false
+  xy: 259, 259
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+greenbutton2
+  rotate: false
+  xy: 517, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+purplebutton1
+  rotate: false
+  xy: 259, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+purplebutton2
+  rotate: false
+  xy: 517, 259
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+redbutton1
+  rotate: false
+  xy: 775, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+redbutton2
+  rotate: false
+  xy: 517, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+yellowbutton1
+  rotate: false
+  xy: 775, 259
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+yellowbutton2
+  rotate: false
+  xy: 1033, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
