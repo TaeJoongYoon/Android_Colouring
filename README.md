@@ -1,4 +1,4 @@
-# Coloring
+# Colouring
 Arcade Game Application
 
 ## How to
