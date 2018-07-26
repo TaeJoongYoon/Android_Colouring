@@ -16,4 +16,4 @@ I used Google Play Game, Google AdMob
 
 Released February 24, 2017 on Google Play Store
 
-[Download URL](https://play.google.com/store/apps/details?id=com.mygdx.colouring)
+[Download Link](https://play.google.com/store/apps/details?id=com.mygdx.colouring)
